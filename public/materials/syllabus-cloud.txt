@@ -1,0 +1,14 @@
+COURSE SYLLABUS: CRS-101 Enterprise Cloud Architecture & DevSecOps
+Instructor: Dr. Marcus Vance
+Department of Computer Science & Cyber Engineering
+
+1. Course Objectives:
+   - Understand AWS/GCP Multi-Region VPC configurations
+   - IAM least-privilege policy engineering
+   - Container isolation, Kubernetes secrets, and PodSecurityPolicies
+   - Zero-trust architecture implementation
+
+2. Grading Policy:
+   - Midterm Assessment: 35%
+   - Practical Cloud Security Labs: 45%
+   - Final Architecture Capstone: 20%
